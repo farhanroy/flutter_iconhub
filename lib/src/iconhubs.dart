@@ -150,4 +150,181 @@ class IconHubs {
   static const String clock = "packages/iconhub/assets/lines/clock.svg";
   static const String clock_alt = "packages/iconhub/assets/lines/clock-alt.svg";
   static const String clock_alt2 = "packages/iconhub/assets/lines/clock-alt2.svg";
+  static const String cloud = "packages/iconhub/assets/lines/cloud.svg";
+  static const String cloud_check = "packages/iconhub/assets/lines/cloud-check.svg";
+  static const String cloudy = "packages/iconhub/assets/lines/cloudy.svg";
+  static const String coffee_machine = "packages/iconhub/assets/lines/coffee-machine.svg";
+  static const String coffee_machine_right = "packages/iconhub/assets/lines/coffee-machine-right.svg";
+  static const String coin = "packages/iconhub/assets/lines/coin.svg";
+  static const String collection = "packages/iconhub/assets/lines/collection.svg";
+  static const String compact_disc = "packages/iconhub/assets/lines/compact-disc.svg";
+  static const String compact_disc2 = "packages/iconhub/assets/lines/compact-disc-2.svg";
+  static const String compact_disc3 = "packages/iconhub/assets/lines/compact-disc-3.svg";
+  static const String compact_disc_disable = "packages/iconhub/assets/lines/compact-disc-disable.svg";
+  static const String computer_gaming_mouse = "packages/iconhub/assets/lines/computer-gaming-mouse.svg";
+  static const String computer_mouse = "packages/iconhub/assets/lines/computer-mouse.svg";
+  static const String contact_book = "packages/iconhub/assets/lines/contact-book.svg";
+  static const String contract = "packages/iconhub/assets/lines/contract.svg";
+  static const String contract_right = "packages/iconhub/assets/lines/contract-right.svg";
+  static const String contrass = "packages/iconhub/assets/lines/contrass.svg";
+  static const String contrass_alt = "packages/iconhub/assets/lines/contrass-alt.svg";
+  static const String contrass_alt2 = "packages/iconhub/assets/lines/contrass-alt2.svg";
+  static const String conversation = "packages/iconhub/assets/lines/conversation.svg";
+  static const String conversation_alt = "packages/iconhub/assets/lines/conversation-alt.svg";
+  static const String conversation_alt2 = "packages/iconhub/assets/lines/conversation-alt2.svg";
+  static const String copy = "packages/iconhub/assets/lines/copy.svg";
+  static const String copy_alt= "packages/iconhub/assets/lines/copy-alt.svg";
+  static const String coupon = "packages/iconhub/assets/lines/coupon.svg";
+  static const String create_note = "packages/iconhub/assets/lines/create-note.svg";
+  static const String create_note_alt = "packages/iconhub/assets/lines/create-note-alt.svg";
+  static const String credit_card = "packages/iconhub/assets/lines/credit-card.svg";
+  static const String credit_card_alt = "packages/iconhub/assets/lines/credit-card-alt.svg";
+  static const String cross = "packages/iconhub/assets/lines/cross.svg";
+  static const String cross_arrow = "packages/iconhub/assets/lines/cross-arrow.svg";
+  static const String cross_circle = "packages/iconhub/assets/lines/cross-circle.svg";
+  static const String dartboard = "packages/iconhub/assets/lines/dartboard.svg";
+  static const String dartboard2 = "packages/iconhub/assets/lines/dartboard2.svg";
+  static const String dashboard = "packages/iconhub/assets/lines/dashboard.svg";
+  static const String dashboard_alt = "packages/iconhub/assets/lines/dashboard-alt.svg";
+  static const String dashboard_alt2 = "packages/iconhub/assets/lines/dashboard-alt2.svg";
+  static const String dashboard_alt3 = "packages/iconhub/assets/lines/dashboard-alt3.svg";
+  static const String date = "packages/iconhub/assets/lines/date.svg";
+  static const String date_add = "packages/iconhub/assets/lines/date-add.svg";
+  static const String date_alert = "packages/iconhub/assets/lines/date-alert.svg";
+  static const String date_alt_add = "packages/iconhub/assets/lines/date-alt-add.svg";
+  static const String date_alt_alert = "packages/iconhub/assets/lines/date-alt-alert.svg";
+  static const String date_alt_calender = "packages/iconhub/assets/lines/date_alt_calender.svg";
+  static const String date_alt_check = "packages/iconhub/assets/lines/date_alt_check.svg";
+  static const String date_alt_cross = "packages/iconhub/assets/lines/date-alt-cross.svg";
+  static const String date_alt_down = "packages/iconhub/assets/lines/date-alt-down.svg";
+  static const String date_alt_favorite = "packages/iconhub/assets/lines/date-alt-favorite.svg";
+  static const String date_alt_left = "packages/iconhub/assets/lines/date-alt-left.svg";
+  static const String date_alt_question = "packages/iconhub/assets/lines/date-alt-question.svg";
+  static const String date_alt_remove = "packages/iconhub/assets/lines/date-alt-remove.svg";
+  static const String date_alt_remove_alt = "packages/iconhub/assets/lines/date-alt-remove-alt.svg";
+  static const String date_alt_right = "packages/iconhub/assets/lines/date-alt-right.svg";
+  static const String date_alt_search = "packages/iconhub/assets/lines/date-alt-search.svg";
+  static const String date_alt_star = "packages/iconhub/assets/lines/date-alt-star.svg";
+  static const String date_alt_up = "packages/iconhub/assets/lines/date-alt-up.svg";
+  static const String date_calendar = "packages/iconhub/assets/lines/date-calendar.svg";
+  static const String date_chart = "packages/iconhub/assets/lines/date-chart.svg";
+  static const String date_check = "packages/iconhub/assets/lines/date-check.svg";
+  static const String date_cross = "packages/iconhub/assets/lines/date-cross.svg";
+  static const String date_double_check = "packages/iconhub/assets/lines/date-double-check.svg";
+  static const String date_down = "packages/iconhub/assets/lines/date-down.svg";
+  static const String date_favorite = "packages/iconhub/assets/lines/date-favorite.svg";
+  static const String date_forward = "packages/iconhub/assets/lines/date-forward.svg";
+  static const String date_left = "packages/iconhub/assets/lines/date-left.svg";
+  static const String date_performance = "packages/iconhub/assets/lines/date-performance.svg";
+  static const String date_question = "packages/iconhub/assets/lines/date-question.svg";
+  static const String date_remove = "packages/iconhub/assets/lines/date-remove.svg";
+  static const String date_remove_alt = "packages/iconhub/assets/lines/date-remove-alt.svg";
+  static const String date_right = "packages/iconhub/assets/lines/date-right.svg";
+  static const String date_search = "packages/iconhub/assets/lines/date-search.svg";
+  static const String date_star = "packages/iconhub/assets/lines/date-star.svg";
+  static const String date_undo = "packages/iconhub/assets/lines/date-undo.svg";
+  static const String date_up = "packages/iconhub/assets/lines/date-up.svg";
+  static const String decrease_circle = "packages/iconhub/assets/lines/decrease-circle.svg";
+  static const String delete = "packages/iconhub/assets/lines/delete.svg";
+  static const String delete_alt = "packages/iconhub/assets/lines/delete-alt.svg";
+  static const String delete_alt2 = "packages/iconhub/assets/lines/delete-alt2.svg";
+  static const String delete_collection = "packages/iconhub/assets/lines/delete-collection.svg";
+  static const String delete_contact_book = "packages/iconhub/assets/lines/delete-contact-book.svg";
+  static const String delete_music_collection = "packages/iconhub/assets/lines/delete-music-collection.svg";
+  static const String delete_playlist = "packages/iconhub/assets/lines/delete-playlist.svg";
+  static const String delete_playlist2 = "packages/iconhub/assets/lines/delete-playlist2.svg";
+  static const String delete_playlist3 = "packages/iconhub/assets/lines/delete-playlist3.svg";
+  static const String device_projector = "packages/iconhub/assets/lines/device-projector.svg";
+  static const String diagram_bar = "packages/iconhub/assets/lines/diagram-bar.svg";
+  static const String diagram_bar2 = "packages/iconhub/assets/lines/diagram-bar-2.svg";
+  static const String diagram_bar3 = "packages/iconhub/assets/lines/diagram-bar-3.svg";
+  static const String diagram_bar4 = "packages/iconhub/assets/lines/diagram-bar-4.svg";
+  static const String diagram_bar5 = "packages/iconhub/assets/lines/diagram-bar-5.svg";
+  static const String diagram_bar6 = "packages/iconhub/assets/lines/diagram-bar-6.svg";
+  static const String diagram_bar_downtrend = "packages/iconhub/assets/lines/diagram-bar-downtrend.svg";
+  static const String diagram_bar_downtrend2 = "packages/iconhub/assets/lines/diagram-bar-downtrend-2.svg";
+  static const String diagram_bar_uptrend = "packages/iconhub/assets/lines/diagram-bar-uptrend.svg";
+  static const String diagram_bar_uptrend2 = "packages/iconhub/assets/lines/diagram-bar-uptrend-2.svg";
+  static const String discord = "packages/iconhub/assets/lines/discord.svg";
+  static const String discount = "packages/iconhub/assets/lines/discount.svg";
+  static const String discussion = "packages/iconhub/assets/lines/discussion.svg";
+  static const String diskette = "packages/iconhub/assets/lines/diskette.svg";
+  static const String diskette_save = "packages/iconhub/assets/lines/diskette-save.svg";
+  static const String dislike = "packages/iconhub/assets/lines/dislike.svg";
+  static const String disney_plus = "packages/iconhub/assets/lines/disney-plus.svg";
+  static const String dollar = "packages/iconhub/assets/lines/dollar.svg";
+  static const String dollar_symbol = "packages/iconhub/assets/lines/dollar-symbol.svg";
+  static const String done_collection = "packages/iconhub/assets/lines/done-collection.svg";
+  static const String done_music_collection = "packages/iconhub/assets/lines/done-music-collection.svg";
+  static const String done_playlist = "packages/iconhub/assets/lines/done-playlist.svg";
+  static const String done_playlist2 = "packages/iconhub/assets/lines/done-playlist-2.svg";
+  static const String done_playlist3 = "packages/iconhub/assets/lines/done-playlist-3.svg";
+  static const String double_down_sign = "packages/iconhub/assets/lines/double-down-sign.svg";
+  static const String double_left_sign = "packages/iconhub/assets/lines/double-left-sign.svg";
+  static const String double_right_sign = "packages/iconhub/assets/lines/double-right-sign.svg";
+  static const String double_up_sign = "packages/iconhub/assets/lines/double-up-sign.svg";
+  static const String down = "packages/iconhub/assets/lines/down.svg";
+  static const String down_alt = "packages/iconhub/assets/lines/down-alt.svg";
+  static const String down_alt_circle = "packages/iconhub/assets/lines/down-alt-circle.svg";
+  static const String down_circle = "packages/iconhub/assets/lines/down-circle.svg";
+  static const String down_junction_sign = "packages/iconhub/assets/lines/down-junction-sign.svg";
+  static const String down_left = "packages/iconhub/assets/lines/down-left.svg";
+  static const String down_left_circle = "packages/iconhub/assets/lines/down-left-circle.svg";
+  static const String down_right = "packages/iconhub/assets/lines/down-right.svg";
+  static const String down_right_circle = "packages/iconhub/assets/lines/down-right-circle.svg";
+  static const String down_sign = "packages/iconhub/assets/lines/down-sign.svg";
+  static const String down_sign1 = "packages/iconhub/assets/lines/down-sign_1.svg";
+  static const String down_square = "packages/iconhub/assets/lines/down-square.svg";
+  static const String download = "packages/iconhub/assets/lines/download.svg";
+  static const String download_alt = "packages/iconhub/assets/lines/download-alt.svg";
+  static const String download_alt2 = "packages/iconhub/assets/lines/download-alt2.svg";
+  static const String download_alt3 = "packages/iconhub/assets/lines/download-alt3.svg";
+  static const String drawing_tablet = "packages/iconhub/assets/lines/drawing-tablet.svg";
+  static const String drawing_tablet_pencil = "packages/iconhub/assets/lines/drawing-tablet-pencil.svg";
+  static const String drawing_tablet_pencil_left = "packages/iconhub/assets/lines/drawing-tablet-pencil-left.svg";
+  static const String drawing_tablet_right = "packages/iconhub/assets/lines/drawing-tablet-right.svg";
+  static const String dribbble = "packages/iconhub/assets/lines/dribbble.svg";
+  static const String earphone = "packages/iconhub/assets/lines/earphone.svg";
+  static const String edit = "packages/iconhub/assets/lines/edit.svg";
+  static const String edit_alt = "packages/iconhub/assets/lines/edit-alt.svg";
+  static const String edit_alt2 = "packages/iconhub/assets/lines/edit-alt2.svg";
+  static const String edit_alt3 = "packages/iconhub/assets/lines/edit-alt3.svg";
+  static const String edit_alt4 = "packages/iconhub/assets/lines/edit-alt4.svg";
+  static const String edit_alt5 = "packages/iconhub/assets/lines/edit-alt5.svg";
+  static const String edit_alt6 = "packages/iconhub/assets/lines/edit-alt6.svg";
+  static const String edit_circle = "packages/iconhub/assets/lines/edit-circle.svg";
+  static const String edit_circle_alt = "packages/iconhub/assets/lines/edit-circle-alt.svg";
+  static const String electric_iron = "packages/iconhub/assets/lines/electric-iron.svg";
+  static const String email = "packages/iconhub/assets/lines/email.svg";
+  static const String email_file = "packages/iconhub/assets/lines/email-file.svg";
+  static const String email_file_text = "packages/iconhub/assets/lines/email-file-text.svg";
+  static const String email_open = "packages/iconhub/assets/lines/email-open.svg";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
