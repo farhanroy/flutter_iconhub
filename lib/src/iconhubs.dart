@@ -348,7 +348,59 @@ class IconHubs {
   static const String folder_check = "packages/iconhub/assets/lines/folder_check.svg";
   static const String folder_code = "packages/iconhub/assets/lines/folder-code.svg";
   static const String folder_edit = "packages/iconhub/assets/lines/folder-edit.svg";
+  static const String folder_favorite = "packages/iconhub/assets/lines/folder-favorite.svg";
+  static const String folder_remove = "packages/iconhub/assets/lines/folder-remove.svg";
+  static const String folder_search = "packages/iconhub/assets/lines/folder-search.svg";
+  static const String forward2 = "packages/iconhub/assets/lines/forward-2.svg";
+  static const String forward3 = "packages/iconhub/assets/lines/forward-3.svg";
+  static const String forward_circle = "packages/iconhub/assets/lines/forward-circle.svg";
+  static const String forward_square = "packages/iconhub/assets/lines/forward-square.svg";
+  static const String forward = "packages/iconhub/assets/lines/forward.svg";
+  static const String framer = "packages/iconhub/assets/lines/framer.svg";
+  static const String full_cross_circle_alt = "packages/iconhub/assets/lines/full-cross-circle-alt.svg";
+  static const String full_cross_circle = "packages/iconhub/assets/lines/full-cross-circle.svg";
+  static const String gallery_collection_left = "packages/iconhub/assets/lines/gallery-collections-left.svg";
+  static const String gallery_collection_round_left = "packages/iconhub/assets/lines/gallery-collections-round-left.svg";
+  static const String gallery_collection_round = "packages/iconhub/assets/lines/gallery-collections-round.svg";
+  static const String gallery_collections = "packages/iconhub/assets/lines/gallery-collections.svg";
+  static const String gallery = "packages/iconhub/assets/lines/gallery.svg";
+  static const String game_console = "packages/iconhub/assets/lines/game-console.svg";
+  static const String game_console_cable = "packages/iconhub/assets/lines/game-console-cable.svg";
+  static const String game_controller = "packages/iconhub/assets/lines/game-controller.svg";
+  static const String gamepad_cable = "packages/iconhub/assets/lines/gamepad-cable.svg";
+  static const String gamepad = "packages/iconhub/assets/lines/gamepad.svg";
+  static const String gaming_mouse = "packages/iconhub/assets/lines/gaming_mouse.svg";
+  static const String gift = "packages/iconhub/assets/lines/gift.svg";
+  static const String gmail = "packages/iconhub/assets/lines/gmail.svg";
+  static const String goal = "packages/iconhub/assets/lines/goal.svg";
+  static const String google_circle = "packages/iconhub/assets/lines/google-circle.svg";
+  static const String google_square = "packages/iconhub/assets/lines/google-square.svg";
+  static const String google = "packages/iconhub/assets/lines/google.svg";
+  static const String gumroad = "packages/iconhub/assets/lines/gumroad.svg";
+  static const String half_sun = "packages/iconhub/assets/lines/half-sun.svg";
+  static const String handphone_device = "packages/iconhub/assets/lines/handphone-device.svg";
+  static const String handphone_landscape_left = "packages/iconhub/assets/lines/handphone-landscape-left.svg";
+  static const String handphone_landscape_right = "packages/iconhub/assets/lines/handphone-landscape-right.svg";
+  static const String handphone = "packages/iconhub/assets/lines/handphone.svg";
+  static const String hang_up = "packages/iconhub/assets/lines/hang-up.svg";
+  static const String hashtag_circle = "packages/iconhub/assets/lines/hashtag-circle.svg";
+  static const String hashtag_square = "packages/iconhub/assets/lines/hashtag-square.svg";
+  static const String hashtag = "packages/iconhub/assets/lines/hashtag.svg";
+  static const String headset = "packages/iconhub/assets/lines/headset.svg";
+  static const String headset_alt = "packages/iconhub/assets/lines/headset-alt.svg";
+  static const String help = "packages/iconhub/assets/lines/help.svg";
+  static const String home_alt = "packages/iconhub/assets/lines/home-alt.svg";
+  static const String home_alt2 = "packages/iconhub/assets/lines/home-alt2.svg";
+  static const String home_alt3 = "packages/iconhub/assets/lines/home-alt3.svg";
+  static const String home_alt4 = "packages/iconhub/assets/lines/home-alt4.svg";
+  static const String home_alt5 = "packages/iconhub/assets/lines/home-alt5.svg";
+  static const String home_telephone = "packages/iconhub/assets/lines/home-telephone.svg";
+  static const String home = "packages/iconhub/assets/lines/home.svg";
+  static const String id_card2 = "packages/iconhub/assets/lines/i-d-card-2.svg";
+  static const String id_card = "packages/iconhub/assets/lines/i-d-card.svg";
+  
 
+  
 
 
 
