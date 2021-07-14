@@ -548,6 +548,57 @@ class IconHubs {
   static const String music_folder9 = "packages/iconhub/assets/lines/music-folder-9.svg";
   static const String music_folder10 = "packages/iconhub/assets/lines/music-folder-10.svg";
   static const String music_folder = "packages/iconhub/assets/lines/music-folder.svg";
+  static const String music_lyric2 = "packages/iconhub/assets/lines/music-lyric-2.svg";
+  static const String music_lyric = "packages/iconhub/assets/lines/music-lyric.svg";
+  static const String music_player = "packages/iconhub/assets/lines/music-player.svg";
+  static const String music_square2 = "packages/iconhub/assets/lines/music-square-2.svg";
+  static const String music_square = "packages/iconhub/assets/lines/music-square.svg";
+  static const String music_tape = "packages/iconhub/assets/lines/music-tape.svg";
+  static const String music = "packages/iconhub/assets/lines/music.svg";
+  static const String netflix = "packages/iconhub/assets/lines/netflix.svg";
+  static const String next_square = "packages/iconhub/assets/lines/next-square.svg";
+  static const String next = "packages/iconhub/assets/lines/next.svg";
+  static const String no_water = "packages/iconhub/assets/lines/no-water.svg";
+  static const String note_alert = "packages/iconhub/assets/lines/note-alert.svg";
+  static const String note_alt = "packages/iconhub/assets/lines/note-alt.svg";
+  static const String note_book = "packages/iconhub/assets/lines/note-book.svg";
+  static const String note_check = "packages/iconhub/assets/lines/note-check.svg";
+  static const String note_down = "packages/iconhub/assets/lines/note-down.svg";
+  static const String note_edit = "packages/iconhub/assets/lines/note-edit.svg";
+  static const String note_question = "packages/iconhub/assets/lines/note-question.svg";
+  static const String note_remove = "packages/iconhub/assets/lines/note-remove.svg";
+  static const String note_text = "packages/iconhub/assets/lines/note-text.svg";
+  static const String note_up = "packages/iconhub/assets/lines/note-up.svg";
+  static const String notification_alt = "packages/iconhub/assets/lines/notification-alt.svg";
+  static const String notification_circle_alt = "packages/iconhub/assets/lines/notification-circle-alt.svg";
+  static const String notification_circle = "packages/iconhub/assets/lines/notification-circle.svg";
+  static const String notification = "packages/iconhub/assets/lines/notification.svg";
+  static const String one_drive = "packages/iconhub/assets/lines/one-drive.svg";
+  static const String open_envelope = "packages/iconhub/assets/lines/open-envelope.svg";
+  static const String package_alt = "packages/iconhub/assets/lines/package-alt.svg";
+  static const String package_alt2 = "packages/iconhub/assets/lines/package-alt2.svg";
+  static const String package = "packages/iconhub/assets/lines/package.svg";
+  static const String paper_clip2 = "packages/iconhub/assets/lines/paper-clip-2.svg";
+  static const String paper_clip_bottom_left2 = "packages/iconhub/assets/lines/paper-clip-bottom-left-2.svg";
+  static const String paper_clip_bottom_left = "packages/iconhub/assets/lines/paper-clip-bottom-left.svg";
+  static const String paper_clip_bottom_right2 = "packages/iconhub/assets/lines/paper-clip-bottom-right-2.svg";
+  static const String paper_clip_bottom_right = "packages/iconhub/assets/lines/paper-clip-bottom-right.svg";
+  static const String paper_clip_top_right2 = "packages/iconhub/assets/lines/paper-clip-top-right-2.svg";
+  static const String paper_clip_top_right = "packages/iconhub/assets/lines/paper-clip-top-right.svg";
+  static const String paper_clip = "packages/iconhub/assets/lines/paper-clip.svg";
+  static const String paper_circle = "packages/iconhub/assets/lines/paper-circle.svg";
+  static const String paper_square = "packages/iconhub/assets/lines/paper-square.svg";
+  static const String pause = "packages/iconhub/assets/lines/pause.svg";
+  static const String paypal = "packages/iconhub/assets/lines/paypal.svg";
+  static const String phone_book = "packages/iconhub/assets/lines/phone-book.svg";
+  static const String phone_device_landscape_left = "packages/iconhub/assets/lines/phone-device-landscape-left.svg";
+  static const String phone_device_landscape_right = "packages/iconhub/assets/lines/phone-device-landscape-right.svg";
+  static const String phone_device_rotare_right = "packages/iconhub/assets/lines/phone-device-rotare-right.svg";
+  static const String phone_device = "packages/iconhub/assets/lines/phone-device.svg";
+  static const String phone_out = "packages/iconhub/assets/lines/phone-out.svg";
+  static const String phone = "packages/iconhub/assets/lines/phone.svg";
+  static const String photo_camera = "packages/iconhub/assets/lines/photo_camera.svg";
+  
 
 
 
