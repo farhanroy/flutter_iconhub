@@ -648,7 +648,64 @@ class IconHubs {
   static const String question = "packages/iconhub/assets/lines/question.svg";
   static const String radio_antenna_right = "packages/iconhub/assets/lines/radio-antenna-right.svg";
   static const String radio_antenna = "packages/iconhub/assets/lines/radio-antenna.svg";
-  
+  static const String radio_right = "packages/iconhub/assets/lines/radio-right.svg";
+  static const String radio = "packages/iconhub/assets/lines/radio.svg";
+  static const String rain = "packages/iconhub/assets/lines/rain.svg";
+  static const String rain_alt = "packages/iconhub/assets/lines/rain-alt.svg";
+  static const String receipt_add = "packages/iconhub/assets/lines/receipt-add.svg";
+  static const String receipt_check = "packages/iconhub/assets/lines/receipt-check.svg";
+  static const String receipt_clese = "packages/iconhub/assets/lines/receipt-clese.svg";
+  static const String receipt_down = "packages/iconhub/assets/lines/receipt-down.svg";
+  static const String receipt_remove = "packages/iconhub/assets/lines/receipt-remove.svg";
+  static const String receipt_up = "packages/iconhub/assets/lines/receipt-up.svg";
+  static const String receipt = "packages/iconhub/assets/lines/receipt.svg";
+  static const String reddit = "packages/iconhub/assets/lines/reddit.svg";
+  static const String refrigerator = "packages/iconhub/assets/lines/refrigerator.svg";
+  static const String report_pie_chart2 = "packages/iconhub/assets/lines/report-pie-chart-2.svg";
+  static const String report_pie_chart3 = "packages/iconhub/assets/lines/report-pie-chart-3.svg";
+  static const String report_pie_chart4 = "packages/iconhub/assets/lines/report-pie-chart-4.svg";
+  static const String report_pie_chart5 = "packages/iconhub/assets/lines/report-pie-chart-5.svg";
+  static const String report_pie_chart6 = "packages/iconhub/assets/lines/report-pie-chart-6.svg";
+  static const String report_pie_chart7 = "packages/iconhub/assets/lines/report-pie-chart-7.svg";
+  static const String report_pie_chart8 = "packages/iconhub/assets/lines/report-pie-chart-8.svg";
+  static const String report_pie_chart9 = "packages/iconhub/assets/lines/report-pie-chart-9.svg";
+  static const String report_pie_chart10 = "packages/iconhub/assets/lines/report-pie-chart-10.svg";
+  static const String report_pie_chart11 = "packages/iconhub/assets/lines/report-pie-chart-11.svg";
+  static const String report_pie_chart12 = "packages/iconhub/assets/lines/report-pie-chart-12.svg";
+  static const String report_pie_chart = "packages/iconhub/assets/lines/report-pie-chart.svg";
+  static const String reward_tag = "packages/iconhub/assets/lines/reward-tag.svg";
+  static const String reward = "packages/iconhub/assets/lines/reward.svg";
+  static const String right_alt_circle = "packages/iconhub/assets/lines/right-alt-circle.svg";
+  static const String right_alt = "packages/iconhub/assets/lines/right-alt.svg";
+  static const String right_circle = "packages/iconhub/assets/lines/right-circle.svg";
+  static const String right_junction_sign = "packages/iconhub/assets/lines/right-junction-sign.svg";
+  static const String right_sign1 = "packages/iconhub/assets/lines/right-sign_1.svg";
+  static const String right_sign = "packages/iconhub/assets/lines/right-sign.svg";
+  static const String right_square = "packages/iconhub/assets/lines/right-square.svg";
+  static const String right = "packages/iconhub/assets/lines/right.svg";
+  static const String roadmap2 = "packages/iconhub/assets/lines/roadmap-2.svg";
+  static const String roadmap3 = "packages/iconhub/assets/lines/roadmap-3.svg";
+  static const String roadmap = "packages/iconhub/assets/lines/roadmap.svg";
+  static const String rocket_left = "packages/iconhub/assets/lines/rocket-left.svg";
+  static const String rocket_right = "packages/iconhub/assets/lines/rocket-right.svg";
+  static const String rocket = "packages/iconhub/assets/lines/rocket.svg";
+  static const String rotate_left = "packages/iconhub/assets/lines/rotate-left.svg";
+  static const String rotate_right = "packages/iconhub/assets/lines/rotate-right.svg";
+  static const String save_left = "packages/iconhub/assets/lines/save-left.svg";
+  static const String save = "packages/iconhub/assets/lines/save.svg";
+  static const String scan_alt = "packages/iconhub/assets/lines/scan-alt.svg";
+  static const String scan_lock = "packages/iconhub/assets/lines/scan-lock.svg";
+  static const String scan = "packages/iconhub/assets/lines/scan.svg";
+  static const String scanner_left = "packages/iconhub/assets/lines/scanner-left.svg";
+  static const String scanner = "packages/iconhub/assets/lines/scanner.svg";
+
+
+
+
+
+
+
+
 
 
 
