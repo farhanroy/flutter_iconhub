@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:iconhub/src/iconhubs.dart';
 import 'package:iconhub/iconhub.dart';
 
 void main() {
@@ -94,14 +95,9 @@ class _MyHomePageState extends State<MyHomePage> {
           // horizontal).
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Text(
-              'You have pushed the button this many times:',
-            ),
-            IconHub(icon: IconHubs.ac, width: 24, height: 24, color: Colors.black,),
-            Text(
-              '$_counter',
-              style: Theme.of(context).textTheme.headline4,
-            ),
+
+            IconHub(assetName: IconHubs.lines.actionCam, width: 108, height: 108, color: Colors.red,),
+
           ],
         ),
       ),
